@@ -27,3 +27,8 @@ Inspiration
 This dataset was assembled as part of my second Capstone Project for Springboard's Data Science Career Track. I wanted to perform an extensive EDA on Movie Data to narrate the history and the story of Cinema and use this metadata in combination with MovieLens ratings to build various types of Recommender Systems. Both my notebooks are available as kernels with this dataset: The Story of Film and Movie Recommender Systems
 
 Some of the things you can do with this dataset: Predicting movie revenue and/or movie success based on a certain metric. What movies tend to get higher vote counts and vote averages on TMDB? Building Content Based and Collaborative Filtering Based Recommendation Engines.
+
+
+
+**DATASET**
+https://drive.google.com/file/d/146slhEyBqDMMU9Q4T1M4ZyF-piwsSnjY/view?usp=drive_link, https://drive.google.com/file/d/1la2z7UM8_ND11bLqtxA3-5VZl6mf-JXh/view?usp=drive_link, https://drive.google.com/file/d/1DA1t7uUyL7HwUTDDusLTr9DP0dfVfqZC/view?usp=drive_link, https://drive.google.com/file/d/1zS5Y5L5RGPQaXuaYSBfNxbTC-d8C8M9r/view?usp=drive_link, https://drive.google.com/file/d/1XZR1gRLuDwGTDh0sON5dtQ9URfWkQXze/view?usp=drive_link, https://drive.google.com/file/d/1PB2MNLX_A3DsRmU5EP7NYpAd1hrZTZg0/view?usp=drive_link
